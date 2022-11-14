@@ -1,0 +1,4 @@
+<resources>
+    <string name="minus_one" translatable="false">-1</string>
+    <string name="plus_one" translatable="false">+1</string>
+</resources>
